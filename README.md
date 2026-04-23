@@ -1,298 +1,176 @@
-<!-- ╔══════════════════════════════════════════════════════════╗ -->
-<!-- ║           TANMAY JAYAN NAIR ·    ║ -->
-<!-- ╚══════════════════════════════════════════════════════════╝ -->
+<div align="center">
+
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0057FF&height=220&section=header&text=Tanmay%20Nair&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=AI%20·%20Full%20Stack%20·%20Competitive%20Coder&descAlignY=58&descSize=22&animation=fadeIn)
+
+</div>
 
 <div align="center">
 
-<!-- ░░ ANIMATED WAVE HEADER ░░ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=17,18,19,20,21&height=230&section=header&text=Tanmay%20Nair&fontSize=78&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=AI%20%7C%20Full%20Stack%20%7C%20Competitive%20Coder&descSize=22&descAlignY=63&descColor=FF6EC7" width="100%"/>
-
-<!-- ░░ TYPING ANIMATION — PINK NEON ░░ -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=800&color=FF6EC7&background=00000000&center=true&vCenter=true&width=950&lines=Hi+%F0%9F%91%8B+I'm+Tanmay+Nair!;B.Tech+CSE+%40+VIT+Chennai+%F0%9F%8E%93;AI+%7C+Full+Stack+%7C+Competitive+Coder;230%2B+LeetCode+Problems+Crushed+%E2%9A%94%EF%B8%8F;Hackathon+Builder+%F0%9F%8F%86;Turning+Ideas+into+Reality+%F0%9F%9A%80" alt="Typing SVG" />
-
-<br/>
-
-<!-- ░░ PROFILE VIEWS ░░ -->
-<img src="https://komarev.com/ghpvc/?username=magnusinst84-sudo&style=for-the-badge&color=B44FE8&label=PROFILE+VIEWS&labelColor=0d0d0d" />
-&nbsp;
-<img src="https://img.shields.io/github/followers/magnusinst84-sudo?style=for-the-badge&color=FF6EC7&labelColor=0d0d0d&label=FOLLOWERS&logo=github" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Building+AI+that+Thinks+%F0%9F%A7%A0;Shipping+Products+That+Matter+%F0%9F%9A%80;230%2B+LeetCode+Problems+Solved+%E2%9A%A1;B.Tech+CSE+%40+VIT+Chennai+%F0%9F%8E%93;Turning+Raw+Ideas+Into+Real+Products+%F0%9F%94%A5)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
-<!--                        ABOUT ME                             -->
-<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=17,18,19,20,21&height=3" width="100%"/>
-
-<br/>
-
 <div align="center">
 
-## 🌸 Who Am I?
+[![Profile Views](https://komarev.com/ghpvc/?username=magnusinst84-sudo&style=for-the-badge&color=00F7FF&label=PROFILE+VIEWS)](https://github.com/magnusinst84-sudo)
+&nbsp;
+[![GitHub followers](https://img.shields.io/github/followers/magnusinst84-sudo?style=for-the-badge&color=0057FF&labelColor=0d1117&label=FOLLOWERS)](https://github.com/magnusinst84-sudo?tab=followers)
+&nbsp;
+[![LeetCode](https://img.shields.io/badge/LeetCode-230%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/tanmay_n93/)
 
 </div>
 
-<table align="center">
-<tr>
-<td valign="top" width="55%">
+---
 
-```yaml
-name       : Tanmay Nair
-college    : VIT Chennai · B.Tech CSE
-focus      : AI / ML · Full Stack · DSA
-leetcode   : 230+ problems solved ⚔️
-vibe       : Hackathon builder ⚡
-superpower : Turning ideas into products 🚀
-currently  : Building things that matter 🌸
+## ⚡ `whoami`
+
+```typescript
+const tanmay = {
+  name        : "Tanmay Nair",
+  role        : "AI · Full Stack · Competitive Programmer",
+  university  : "VIT Chennai — B.Tech CSE",
+  currentFocus: ["LLM Pipelines", "Full Stack SaaS", "Computer Vision"],
+  hobbies     : ["Hackathons", "Open Source", "Breaking & Fixing Things"],
+  motto       : "Ship fast. Learn faster. Build what matters.",
+};
 ```
 
-</td>
-<td valign="top" width="45%">
-
-| 🏆 Achievements | |
-|---|---|
-| 🧠 AI Projects | 3+ shipped |
-| ⚔️ LeetCode | 230+ solved |
-| 🏅 Hackathons | Builder |
-| 🌍 Domains | AI · Web · Data |
-| 📦 Stack | React · Flask · TF |
-
-</td>
-</tr>
-</table>
-
-<br/>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=17,18,19,20,21&height=3" width="100%"/>
-
 ---
 
-<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
-<!--                     CONNECT WITH ME                         -->
-<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+## 🌐 Connect
 
 <div align="center">
 
-## 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-B44FE8?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tanmay-nair)
-[![GitHub](https://img.shields.io/badge/GitHub-FF6EC7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/magnusinst84-sudo)
-[![Kaggle](https://img.shields.io/badge/Kaggle-B44FE8?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/maestros231)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FF6EC7?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/tanmay_n93/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tanmay-nair)
+[![GitHub](https://img.shields.io/badge/GitHub-%23111111.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/magnusinst84-sudo)
+[![Kaggle](https://img.shields.io/badge/Kaggle-%2320BEFF.svg?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/maestros231)
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/tanmay_n93/)
 
 </div>
 
 ---
 
-<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
-<!--                       TECH ARSENAL                          -->
-<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+## 🏆 Trophies
 
 <div align="center">
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=magnusinst84-sudo&theme=algolia&no-frame=true&no-bg=true&margin-w=6&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
 
 ## ⚙️ Tech Arsenal
 
+<div align="center">
+
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-B44FE8?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-FF6EC7?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-B44FE8?style=for-the-badge&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-FF6EC7?style=for-the-badge&logo=javascript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-B44FE8?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-FF6EC7?style=for-the-badge&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-**Frameworks & Libraries**
+**AI / ML**
 
-![React](https://img.shields.io/badge/React-B44FE8?style=for-the-badge&logo=react&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-FF6EC7?style=for-the-badge&logo=flask&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-B44FE8?style=for-the-badge&logo=tensorflow&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
-**Tools & Platforms**
+**Web & Backend**
 
-![Firebase](https://img.shields.io/badge/Firebase-FF6EC7?style=for-the-badge&logo=firebase&logoColor=white)
-![Git](https://img.shields.io/badge/Git-B44FE8?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-FF6EC7?style=for-the-badge&logo=github&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-B44FE8?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Colab-FF6EC7?style=for-the-badge&logo=googlecolab&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Cloud & Tools**
+
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 </div>
 
 ---
-
-<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
-<!--                     FEATURED PROJECTS                       -->
-<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
-
-<div align="center">
 
 ## 🔥 Featured Projects
 
+<div align="center">
+
+| Project | Stack | Highlights |
+|:--|:--|:--|
+| 🍛 **FoodSight AI** | Python · TensorFlow · Flask | Indian food classification + nutrition estimation · 55K+ dataset · **85.21% accuracy** |
+| 🌱 **Regenera Ledger** | Gemini AI · React · Firebase | ESG intelligence platform · Greenwashing detection · Scope 3 emissions tracking |
+| 🧠 **empath.ai** | React · Flask · Motion UI | Mental health web app · AI chat assistant · Mood tracker with animated UX |
+
 </div>
 
-<table align="center">
-<tr>
-
-<!-- Project 1 -->
-<td align="center" width="33%">
-
-### 🍛 FoodSight AI
-![AI](https://img.shields.io/badge/AI%2FML-B44FE8?style=flat-square&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-FF6EC7?style=flat-square&logoColor=white)
-
-> Indian Food Classification + Nutrition Estimation
-
-✦ `55,000+` image dataset  
-✦ `85.21%` model accuracy  
-✦ Flask REST API backend  
-✦ Real-time food recognition  
-
-</td>
-
-<!-- Project 2 -->
-<td align="center" width="33%">
-
-### 🌱 Regenera Ledger
-![ESG](https://img.shields.io/badge/ESG%20AI-B44FE8?style=flat-square&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-FF6EC7?style=flat-square&logoColor=white)
-
-> ESG Intelligence Platform
-
-✦ Detects greenwashing  
-✦ Scope 3 emissions tracking  
-✦ Gemini AI powered  
-✦ Real sustainability insights  
-
-</td>
-
-<!-- Project 3 -->
-<td align="center" width="33%">
-
-### 🧠 empath.ai
-![React](https://img.shields.io/badge/React-B44FE8?style=flat-square&logoColor=white)
-![Mental Health](https://img.shields.io/badge/Mental%20Health-FF6EC7?style=flat-square&logoColor=white)
-
-> Mental Health Web App
-
-✦ AI chat assistant  
-✦ Mood tracker & analytics  
-✦ React + Motion UI  
-✦ Empathy-driven design  
-
-</td>
-
-</tr>
-</table>
-
 ---
-
-<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
-<!--                       GITHUB STATS                          -->
-<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
-
-<div align="center">
 
 ## 📊 GitHub Stats
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=magnusinst84-sudo&show_icons=true&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=FF6EC7&icon_color=B44FE8&text_color=ffffff&ring_color=FF6EC7"/>
-&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=magnusinst84-sudo&layout=compact&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=FF6EC7&text_color=ffffff"/>
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=magnusinst84-sudo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7FF&icon_color=0057FF&text_color=ffffff&border_radius=12"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=magnusinst84-sudo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7FF&text_color=ffffff&border_radius=12"/>
+
+</div>
+
+<div align="center">
+
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=magnusinst84-sudo&theme=tokyonight&hide_border=true&background=0d1117&ring=00F7FF&fire=0057FF&currStreakLabel=00F7FF&border_radius=12"/>
 
 </div>
 
 ---
-
-<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
-<!--                       GITHUB STREAK                         -->
-<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
-
-<div align="center">
-
-## 🔥 Streak Stats
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=magnusinst84-sudo&theme=radical&hide_border=true&background=0d0d0d&ring=FF6EC7&fire=B44FE8&currStreakLabel=FF6EC7&sideLabels=ffffff&dates=aaaaaa&sideNums=ffffff&currStreakNum=FF6EC7"/>
-
-</div>
-
----
-
-<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
-<!--                       TROPHIES                              -->
-<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
-
-<div align="center">
-
-## 🏅 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=magnusinst84-sudo&theme=radical&no-frame=true&no-bg=false&margin-w=10&row=1&column=7" />
-
-</div>
-
----
-
-<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
-<!--                     ACTIVITY GRAPH                          -->
-<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
-
-<div align="center">
 
 ## 📈 Activity Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=magnusinst84-sudo&theme=tokyo-night&hide_border=true&bg_color=0d0d0d&color=FF6EC7&line=B44FE8&point=FF6EC7&area=true&area_color=B44FE8" width="95%"/>
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=magnusinst84-sudo&bg_color=0d1117&color=00F7FF&line=0057FF&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
 ---
 
-<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
-<!--                     CODING JOURNEY                          -->
-<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+## 🐍 Contribution Snake
 
 <div align="center">
-
-## 💜 Coding Journey
-
-</div>
-
-```text
-⚔️  LeetCode        ████████████████████░░░  230+ Problems
-🤖  AI / ML         ██████████████████░░░░░  Strong & Growing
-🌐  Full Stack      ████████████████░░░░░░░  React · Flask · Firebase
-🏆  Hackathons      ████████████████████░░░  Builder Mindset
-📦  Projects        ██████████████░░░░░░░░░  3 Shipped · More Coming
-⚡  Consistency     ████████████████████░░░  Elite Level
-```
-
----
-
-<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
-<!--                   CONTRIBUTION SNAKE                        -->
-<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
-
-<div align="center">
-
-## 🐍 Watch My Contributions Get Eaten
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/magnusinst84-sudo/magnusinst84-sudo/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/magnusinst84-sudo/magnusinst84-sudo/output/github-contribution-grid-snake.svg"/>
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/magnusinst84-sudo/magnusinst84-sudo/output/github-contribution-grid-snake.svg"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/magnusinst84-sudo/magnusinst84-sudo/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/magnusinst84-sudo/magnusinst84-sudo/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/magnusinst84-sudo/magnusinst84-sudo/output/github-contribution-grid-snake.svg">
 </picture>
 
 </div>
 
 ---
 
-<!-- ░░ FOOTER QUOTE ░░ -->
+## 📈 Coding Journey
+
+```text
+⚡ LeetCode Problems   ████████████░░░░░░░░   230+  (Growing Daily)
+🚀 Projects Shipped    ██████████░░░░░░░░░░   3 Flagship · More Incoming
+🤖 AI / ML Skills      ██████████████░░░░░░   Computer Vision · NLP · LLMs
+🏆 Hackathons          ████████░░░░░░░░░░░░   Multiple · Building to Win
+💡 Consistency         ███████████████░░░░░   Elite — No Days Off
+```
+
+---
 
 <div align="center">
 
-*✨ "Code is my canvas. AI is my paintbrush. The future is my gallery." ✨*
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0057FF,100:00F7FF&height=120&section=footer&animation=fadeIn)
 
-<br/>
+**"The best way to predict the future is to build it."**
 
-<!-- ░░ ANIMATED WAVE FOOTER ░░ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=17,18,19,20,21&height=140&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=FF6EC7&animation=twinkling&fontAlignY=65" width="100%"/>
+*— Tanmay Nair · Open to Internships · Collaborations · Big Ideas*
 
 </div>
