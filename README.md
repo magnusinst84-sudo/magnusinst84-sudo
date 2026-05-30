@@ -29,7 +29,7 @@
 ```typescript
 const tanmay = {
   name        : "Tanmay Nair",
-  role        : "AI · Full Stack · Competitive Programmer",
+  role        : "AI · Developer · Programmer",
   university  : "VIT Chennai — B.Tech CSE",
   currentFocus: ["LLM Pipelines", "Full Stack SaaS", "Computer Vision"],
   hobbies     : ["Hackathons", "Open Source", "Breaking & Fixing Things"],
