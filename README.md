@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0057FF&height=220&section=header&text=Tanmay%20Nair&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=AI%20·%20Full%20Stack%20·%20Competitive%20Coder&descAlignY=58&descSize=22&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0057FF&height=220&section=header&text=Tanmay%20Nair&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=AI%20·%20Developer%20·%20Coder&descAlignY=58&descSize=22&animation=fadeIn)
 
 </div>
 
