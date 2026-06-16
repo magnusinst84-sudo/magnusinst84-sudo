@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Building+AI+that+Thinks+%F0%9F%A7%A0;Shipping+Products+That+Matter+%F0%9F%9A%80;230%2B+LeetCode+Problems+Solved+%E2%9A%A1;B.Tech+CSE+%40+VIT+Chennai+%F0%9F%8E%93;Turning+Raw+Ideas+Into+Real+Products+%F0%9F%94%A5)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=B.Tech+CSE+%40+VIT+Chennai+%F0%9F%8E%93;Currently%3A+ML+Specialization+%2B+ROUTIQ+%F0%9F%9A%A6;230%2B+LeetCode+Problems+Solved+%E2%9A%A1;Learning+to+Defend+What+I+Build%2C+Not+Just+Ship+It)](https://git.io/typing-svg)
 
 </div>
 
@@ -29,11 +29,10 @@
 ```typescript
 const tanmay = {
   name        : "Tanmay Nair",
-  role        : "AI · Developer · Programmer",
-  university  : "VIT Chennai — B.Tech CSE",
-  currentFocus: ["LLM Pipelines", "Full Stack SaaS", "Computer Vision"],
-  hobbies     : ["Hackathons", "Open Source", "Breaking & Fixing Things"],
-  motto       : "Ship fast. Learn faster. Build what matters.",
+  university  : "VIT Chennai — B.Tech CSE (2nd year)",
+  rightNow    : ["Andrew Ng's ML Specialization", "ROUTIQ — ML scoring layer", "DSA: recursion/sliding window/DP"],
+  pastBuilds  : ["FoodSight AI", "Regenera Ledger", "empath.ai"],
+  motto       : "Ship it, then learn to explain how it works.",
 };
 ```
 
@@ -52,11 +51,25 @@ const tanmay = {
 
 ---
 
-## 🏆 Trophies
+## 🔧 Currently Building
 
 <div align="center">
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=magnusinst84-sudo&theme=algolia&no-frame=true&no-bg=true&margin-w=6&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+| Project | Status | Stack | Notes |
+|:--|:--|:--|:--|
+| 🛣️ **ROUTIQ** | In development | Python · OSMnx · TomTom API · SQLite | Smart traffic routing for Thane. Data pipeline is live (OSMnx graph, 480 roads, hourly collection). ML scoring layer (XGBoost) not built yet. [Repo](https://github.com/magnusinst84-sudo/ROUTIQ) |
+
+</div>
+
+## 🔥 Shipped Projects
+
+<div align="center">
+
+| Project | Stack | What it is |
+|:--|:--|:--|
+| 🍛 **FoodSight AI** | Python · TensorFlow · MobileNetV3 | 100-class Indian food classifier, 55K-image dataset, 85.21% accuracy. Team project. |
+| 🌱 **Regenera Ledger** | Gemini AI · React · Firebase | ESG forensic platform — greenwashing detection, Scope 3 emissions tracking. |
+| 🧠 **empath.ai** | React · TypeScript · Flask | Mental health web app with mood tracking and AI chat assistant. |
 
 </div>
 
@@ -71,7 +84,7 @@ const tanmay = {
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 **AI / ML**
 
@@ -83,9 +96,9 @@ const tanmay = {
 **Web & Backend**
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 **Cloud & Tools**
 
@@ -98,15 +111,11 @@ const tanmay = {
 
 ---
 
-## 🔥 Featured Projects
+## 🏆 Trophies
 
 <div align="center">
 
-| Project | Stack | Highlights |
-|:--|:--|:--|
-| 🍛 **FoodSight AI** | Python · TensorFlow · Flask | Indian food classification + nutrition estimation · 55K+ dataset · **85.21% accuracy** |
-| 🌱 **Regenera Ledger** | Gemini AI · React · Firebase | ESG intelligence platform · Greenwashing detection · Scope 3 emissions tracking |
-| 🧠 **empath.ai** | React · Flask · Motion UI | Mental health web app · AI chat assistant · Mood tracker with animated UX |
+[![Trophies](https://github-profile-trophy.vercel.app/?username=magnusinst84-sudo&theme=algolia&no-frame=true&no-bg=true&margin-w=6&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -153,24 +162,10 @@ const tanmay = {
 
 ---
 
-## 📈 Coding Journey
-
-```text
-⚡ LeetCode Problems   ████████████░░░░░░░░   230+  (Growing Daily)
-🚀 Projects Shipped    ██████████░░░░░░░░░░   3 Flagship · More Incoming
-🤖 AI / ML Skills      ██████████████░░░░░░   Computer Vision · NLP · LLMs
-🏆 Hackathons          ████████░░░░░░░░░░░░   Multiple · Building to Win
-💡 Consistency         ███████████████░░░░░   Elite — No Days Off
-```
-
----
-
 <div align="center">
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0057FF,100:00F7FF&height=120&section=footer&animation=fadeIn)
 
-**"The best way to predict the future is to build it."**
-
-*— Tanmay Nair · Open to Internships · Collaborations · Big Ideas*
+*Open to internships and collaborations.*
 
 </div>
