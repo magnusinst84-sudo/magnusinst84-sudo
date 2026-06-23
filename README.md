@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=B.Tech+CSE+%40+VIT+Chennai+%F0%9F%8E%93;Currently%3A+ML+Specialization+%2B+ROUTIQ+%F0%9F%9A%A6;230%2B+LeetCode+Problems+Solved+%E2%9A%A1;Learning+to+Defend+What+I+Build%2C+Not+Just+Ship+It)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=B.Tech+CSE+%40+VIT+Chennai+%F0%9F%8E%93;Currently%3A+ROUTIQ+%F0%9F%9A%A6+%2B+ML+Specialization;290%2B+LeetCode+Problems+Solved+%E2%9A%A1;Ship+it.+Secure+it.+Understand+it.)](https://git.io/typing-svg)
 
 </div>
 
@@ -18,7 +18,7 @@
 &nbsp;
 [![GitHub followers](https://img.shields.io/github/followers/magnusinst84-sudo?style=for-the-badge&color=0057FF&labelColor=0d1117&label=FOLLOWERS)](https://github.com/magnusinst84-sudo?tab=followers)
 &nbsp;
-[![LeetCode](https://img.shields.io/badge/LeetCode-230%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/tanmay_n93/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-290%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/tanmay_n93/)
 
 </div>
 
@@ -30,9 +30,9 @@
 const tanmay = {
   name        : "Tanmay Nair",
   university  : "VIT Chennai — B.Tech CSE (2nd year)",
-  rightNow    : ["Andrew Ng's ML Specialization", "ROUTIQ — ML scoring layer", "DSA: recursion/sliding window/DP"],
-  pastBuilds  : ["FoodSight AI", "Regenera Ledger", "empath.ai"],
-  motto       : "Ship it, then learn to explain how it works.",
+  rightNow    : ["ROUTIQ — adaptive routing engine for Indian cities", "Andrew Ng's ML Specialization", "DSA: DP, monotonic stack, divide & conquer"],
+  pastBuilds  : ["EduTrace", "FoodSight AI", "Regenera Ledger", "empath.ai"],
+  motto       : "Ship it. Secure it. Understand it.",
 };
 ```
 
@@ -57,9 +57,11 @@ const tanmay = {
 
 | Project | Status | Stack | Notes |
 |:--|:--|:--|:--|
-| 🛣️ **ROUTIQ** | In development | Python · OSMnx · TomTom API · SQLite | Smart traffic routing for Thane. Data pipeline is live (OSMnx graph, 480 roads, hourly collection). ML scoring layer (XGBoost) not built yet. [Repo](https://github.com/magnusinst84-sudo/ROUTIQ) |
+| 🛣️ **ROUTIQ** | In development | Python · OSMnx · TomTom API · SQLite | Adaptive multi-modal routing engine for Indian cities. Road graph live (OSMnx, 480 roads, hourly data collection). ML scoring layer (XGBoost) in progress. [Repo](https://github.com/magnusinst84-sudo/ROUTIQ) |
 
 </div>
+
+---
 
 ## 🔥 Shipped Projects
 
@@ -67,8 +69,9 @@ const tanmay = {
 
 | Project | Stack | What it is |
 |:--|:--|:--|
-| 🍛 **FoodSight AI** | Python · TensorFlow · MobileNetV3 | 100-class Indian food classifier, 55K-image dataset, 85.21% accuracy. Team project. |
-| 🌱 **Regenera Ledger** | Gemini AI · React · Firebase | ESG forensic platform — greenwashing detection, Scope 3 emissions tracking. |
+| 🧠 **EduTrace** | React · FastAPI · Gemini API · Firebase · Firestore | AI-powered adaptive learning path agent. 3-turn diagnostic infers your level, generates a RAG-grounded week-by-week roadmap from roadmap.sh data, then teaches you via stateful conversation with stuck mode, teaching modes, quizzes, and PDF export.|
+| 🍛 **FoodSight AI** | Python · TensorFlow · MobileNetV3 | 100-class Indian food classifier. Self-published 55K-image dataset, 85.21% top-1 accuracy. Team project. |
+| 🌱 **Regenera Ledger** | Gemini AI · React · Firebase | ESG forensic auditing platform — greenwashing detection, Scope 3 emissions tracking. Built at hackathon. |
 | 🧠 **empath.ai** | React · TypeScript · Flask | Mental health web app with mood tracking and AI chat assistant. |
 
 </div>
