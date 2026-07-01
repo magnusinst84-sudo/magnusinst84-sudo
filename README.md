@@ -31,7 +31,7 @@ const tanmay = {
   name        : "Tanmay Nair",
   university  : "VIT Chennai — B.Tech CSE (2nd year)",
   rightNow    : ["ROUTIQ — adaptive routing engine for Indian cities", "Andrew Ng's ML Specialization", "DSA: DP, monotonic stack, divide & conquer"],
-  pastBuilds  : ["EduTrace", "FoodSight AI", "Regenera Ledger", "empath.ai"],
+  pastBuilds  : ["EduTrace", "devChart", "FoodSight AI", "Regenera Ledger", "OFFSIDE", "empath.ai"],
   motto       : "Ship it. Secure it. Understand it.",
 };
 ```
@@ -57,7 +57,7 @@ const tanmay = {
 
 | Project | Status | Stack | Notes |
 |:--|:--|:--|:--|
-| 🛣️ **ROUTIQ** | In development | Python · OSMnx · TomTom API · SQLite | Adaptive multi-modal routing engine for Indian cities. Road graph live (OSMnx, 480 roads, hourly data collection). ML scoring layer (XGBoost) in progress. [Repo](https://github.com/magnusinst84-sudo/ROUTIQ) |
+| 🛣️ **ROUTIQ** | In development | Python · OSMnx · TomTom API · SQLite · XGBoost | Adaptive multi-modal routing engine for Indian cities. Road graph live (OSMnx, 6,632 nodes / 15,054 edges across 480 roads, hourly data collection). ML scoring layer (XGBoost) in progress. [Repo](https://github.com/magnusinst84-sudo/ROUTIQ) |
 
 </div>
 
@@ -69,7 +69,9 @@ const tanmay = {
 
 | Project | Stack | What it is |
 |:--|:--|:--|
-| 🧠 **EduTrace** | React · FastAPI · Gemini API · Firebase · Firestore | AI-powered adaptive learning path agent. 3-turn diagnostic infers your level, generates a RAG-grounded week-by-week roadmap from roadmap.sh data, then teaches you via stateful conversation with stuck mode, teaching modes, quizzes, and PDF export.|
+| 🧠 **EduTrace** | React · FastAPI · Gemini API · Firebase · Firestore | AI-powered adaptive learning path agent. 3-turn diagnostic infers your level, generates a RAG-grounded week-by-week roadmap from roadmap.sh data, then teaches you via stateful conversation with stuck mode, teaching modes, quizzes, and PDF export. |
+| 📋 **devChart** | Next.js 14 · TypeScript · MongoDB · Firebase Auth | Neobrutalist, full-stack Kanban board for dev teams. Drag-and-drop status tracking persisted in real time, full audit-trail logging, and isolated "Rooms" with secure entry keys so team leads can oversee multiple projects from one hub. |
+| ⚽ **OFFSIDE** | Next.js · FastAPI · XGBoost · Gemini API · Python | AI-powered football intelligence platform for FIFA World Cup 2026. Live win probability, tactical analysis, AI commentary from 4 analyst personalities, and player DNA cards in a Bloomberg-terminal-inspired dashboard. Elo + bio differential model lifted accuracy from 49% → 57.6%. |
 | 🍛 **FoodSight AI** | Python · TensorFlow · MobileNetV3 | 100-class Indian food classifier. Self-published 55K-image dataset, 85.21% top-1 accuracy. Team project. |
 | 🌱 **Regenera Ledger** | Gemini AI · React · Firebase | ESG forensic auditing platform — greenwashing detection, Scope 3 emissions tracking. Built at hackathon. |
 | 🧠 **empath.ai** | React · TypeScript · Flask | Mental health web app with mood tracking and AI chat assistant. |
@@ -99,13 +101,17 @@ const tanmay = {
 **Web & Backend**
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 **Cloud & Tools**
 
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
