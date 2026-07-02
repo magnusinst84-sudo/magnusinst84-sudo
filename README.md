@@ -30,7 +30,7 @@
 const tanmay = {
   name        : "Tanmay Nair",
   university  : "VIT Chennai — B.Tech CSE (2nd year)",
-  rightNow    : ["ROUTIQ — adaptive routing engine for Indian cities", "Andrew Ng's ML Specialization", "DSA: DP, monotonic stack, divide & conquer"],
+  rightNow    : [ "Andrew Ng's ML Specialization", "DSA: DP, monotonic stack, divide & conquer"],
   pastBuilds  : ["EduTrace", "devChart", "FoodSight AI", "Regenera Ledger", "OFFSIDE", "empath.ai"],
   motto       : "Ship it. Secure it. Understand it.",
 };
@@ -49,17 +49,6 @@ const tanmay = {
 
 </div>
 
----
-
-## 🔧 Currently Building
-
-<div align="center">
-
-| Project | Status | Stack | Notes |
-|:--|:--|:--|:--|
-| 🛣️ **ROUTIQ** | In development | Python · OSMnx · TomTom API · SQLite · XGBoost | Adaptive multi-modal routing engine for Indian cities. Road graph live (OSMnx, 6,632 nodes / 15,054 edges across 480 roads, hourly data collection). ML scoring layer (XGBoost) in progress. [Repo](https://github.com/magnusinst84-sudo/ROUTIQ) |
-
-</div>
 
 ---
 
