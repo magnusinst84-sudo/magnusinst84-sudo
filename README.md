@@ -1,12 +1,12 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0057FF&height=220&section=header&text=Tanmay%20Nair&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=AI%20·%20Developer%20·%20Programmer&descAlignY=58&descSize=22&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:FF3B30,100:8B0000&height=220&section=header&text=Tanmay%20Nair&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=AI%20·%20Developer%20·%20Programmer&descAlignY=58&descSize=22&animation=fadeIn)
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=B.Tech+CSE+%40+VIT+Chennai+%F0%9F%8E%93;290%2B+LeetCode+Problems+Solved+%E2%9A%A1;Ship+it.+Secure+it.+Understand+it.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=FF3B30&center=true&vCenter=true&width=900&lines=B.Tech+CSE+%40+VIT+Chennai+%F0%9F%8E%93;290%2B+LeetCode+Problems+Solved+%E2%9A%A1;Ship+it.+Secure+it.+Understand+it.)](https://git.io/typing-svg)
 
 </div>
 
@@ -14,9 +14,9 @@
 
 <div align="center">
 
-[![Profile Views](https://komarev.com/ghpvc/?username=magnusinst84-sudo&style=for-the-badge&color=00F7FF&label=PROFILE+VIEWS)](https://github.com/magnusinst84-sudo)
+[![Profile Views](https://komarev.com/ghpvc/?username=magnusinst84-sudo&style=for-the-badge&color=FF3B30&label=PROFILE+VIEWS)](https://github.com/magnusinst84-sudo)
 &nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/magnusinst84-sudo?style=for-the-badge&color=0057FF&labelColor=0d1117&label=FOLLOWERS)](https://github.com/magnusinst84-sudo?tab=followers)
+[![GitHub followers](https://img.shields.io/github/followers/magnusinst84-sudo?style=for-the-badge&color=8B0000&labelColor=0d1117&label=FOLLOWERS)](https://github.com/magnusinst84-sudo?tab=followers)
 &nbsp;
 [![LeetCode](https://img.shields.io/badge/LeetCode-290%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/tanmay_n93/)
 
@@ -49,6 +49,18 @@ const tanmay = {
 
 </div>
 
+---
+
+## 🚧 Currently Building
+
+<div align="center">
+
+| Project | Stack | What it is |
+|:--|:--|:--|
+| 🏛️ **Yatra — A Journey Through Time** *(Jul 2026 – Present)* | React.js · Tailwind CSS · Gemini API · RAG · +10 skills | AI-generated historical walkthrough app. Pick a place and an era; RAG retrieval grounds historical context, Gemini generates a 3-stop narrated walkthrough with images, served as an interactive, shareable experience. Owned the agent/backend layer, Gemini generation pipeline, and a fallback chain across image providers so a single failed call doesn't break the walkthrough. Built during OpenAI Build Week; hit >90% valid structured output across real test batches. |
+| 🍛 **FoodSight AI** | Python · TensorFlow · MobileNetV3 (→ FastAPI, Docker, Next.js planned) | 100-class Indian food classifier. Self-published 55K-image dataset, 85.21% top-1 accuracy. Originally a team academic project, now being solo-scaled toward a production build: migrating Flask → FastAPI, containerizing with Docker, then decoupling into a Next.js/Vercel frontend against a hosted API, ahead of a planned React Native mobile client. |
+
+</div>
 
 ---
 
@@ -61,7 +73,6 @@ const tanmay = {
 | 🧠 **EduTrace** | React · FastAPI · Gemini API · Firebase · Firestore | AI-powered adaptive learning path agent. 3-turn diagnostic infers your level, generates a RAG-grounded week-by-week roadmap from roadmap.sh data, then teaches you via stateful conversation with stuck mode, teaching modes, quizzes, and PDF export. |
 | 📋 **devChart** | Next.js 14 · TypeScript · MongoDB · Firebase Auth | Neobrutalist, full-stack Kanban board for dev teams. Drag-and-drop status tracking persisted in real time, full audit-trail logging, and isolated "Rooms" with secure entry keys so team leads can oversee multiple projects from one hub. |
 | ⚽ **OFFSIDE** | Next.js · FastAPI · XGBoost · Gemini API · Python | AI-powered football intelligence platform for FIFA World Cup 2026. Live win probability, tactical analysis, AI commentary from 4 analyst personalities, and player DNA cards in a Bloomberg-terminal-inspired dashboard. Elo + bio differential model lifted accuracy from 49% → 57.6%. |
-| 🍛 **FoodSight AI** | Python · TensorFlow · MobileNetV3 | 100-class Indian food classifier. Self-published 55K-image dataset, 85.21% top-1 accuracy. Team project. |
 | 🌱 **Regenera Ledger** | Gemini AI · React · Firebase | ESG forensic auditing platform — greenwashing detection, Scope 3 emissions tracking. Built at hackathon. |
 | 🧠 **empath.ai** | React · TypeScript · Flask | Mental health web app with mood tracking and AI chat assistant. |
 
@@ -123,14 +134,14 @@ const tanmay = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=magnusinst84-sudo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7FF&icon_color=0057FF&text_color=ffffff&border_radius=12"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=magnusinst84-sudo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7FF&text_color=ffffff&border_radius=12"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=magnusinst84-sudo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=FF3B30&icon_color=8B0000&text_color=ffffff&border_radius=12"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=magnusinst84-sudo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=FF3B30&text_color=ffffff&border_radius=12"/>
 
 </div>
 
 <div align="center">
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=magnusinst84-sudo&theme=tokyonight&hide_border=true&background=0d1117&ring=00F7FF&fire=0057FF&currStreakLabel=00F7FF&border_radius=12"/>
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=magnusinst84-sudo&theme=tokyonight&hide_border=true&background=0d1117&ring=FF3B30&fire=8B0000&currStreakLabel=FF3B30&border_radius=12"/>
 
 </div>
 
@@ -140,7 +151,7 @@ const tanmay = {
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=magnusinst84-sudo&bg_color=0d1117&color=00F7FF&line=0057FF&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=magnusinst84-sudo&bg_color=0d1117&color=FF3B30&line=8B0000&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -162,7 +173,7 @@ const tanmay = {
 
 <div align="center">
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0057FF,100:00F7FF&height=120&section=footer&animation=fadeIn)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,100:FF3B30&height=120&section=footer&animation=fadeIn)
 
 *Open to internships and collaborations.*
 
