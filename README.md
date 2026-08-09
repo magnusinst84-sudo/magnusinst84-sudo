@@ -12,18 +12,6 @@
 
 ---
 
-<div align="center">
-
-[![Profile Views](https://komarev.com/ghpvc/?username=magnusinst84-sudo&style=for-the-badge&color=FF3B30&label=PROFILE+VIEWS)](https://github.com/magnusinst84-sudo)
-&nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/magnusinst84-sudo?style=for-the-badge&color=8B0000&labelColor=0d1117&label=FOLLOWERS)](https://github.com/magnusinst84-sudo?tab=followers)
-&nbsp;
-[![LeetCode](https://img.shields.io/badge/LeetCode-290%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/tanmay_n93/)
-
-</div>
-
----
-
 ## ⚡ `whoami`
 
 ```typescript
@@ -73,9 +61,6 @@ const tanmay = {
 | 🧠 **EduTrace** | React · FastAPI · Gemini API · Firebase · Firestore | AI-powered adaptive learning path agent. 3-turn diagnostic infers your level, generates a RAG-grounded week-by-week roadmap from roadmap.sh data, then teaches you via stateful conversation with stuck mode, teaching modes, quizzes, and PDF export. |
 | 📋 **devChart** | Next.js 14 · TypeScript · MongoDB · Firebase Auth | Neobrutalist, full-stack Kanban board for dev teams. Drag-and-drop status tracking persisted in real time, full audit-trail logging, and isolated "Rooms" with secure entry keys so team leads can oversee multiple projects from one hub. |
 | ⚽ **OFFSIDE** | Next.js · FastAPI · XGBoost · Gemini API · Python | AI-powered football intelligence platform for FIFA World Cup 2026. Live win probability, tactical analysis, AI commentary from 4 analyst personalities, and player DNA cards in a Bloomberg-terminal-inspired dashboard. Elo + bio differential model lifted accuracy from 49% → 57.6%. |
-| 🌱 **Regenera Ledger** | Gemini AI · React · Firebase | ESG forensic auditing platform — greenwashing detection, Scope 3 emissions tracking. Built at hackathon. |
-| 🧠 **empath.ai** | React · TypeScript · Flask | Mental health web app with mood tracking and AI chat assistant. |
-
 </div>
 
 ---
@@ -120,16 +105,6 @@ const tanmay = {
 
 ---
 
-## 🏆 Trophies
-
-<div align="center">
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=magnusinst84-sudo&theme=algolia&no-frame=true&no-bg=true&margin-w=6&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -157,24 +132,3 @@ const tanmay = {
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/magnusinst84-sudo/magnusinst84-sudo/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/magnusinst84-sudo/magnusinst84-sudo/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/magnusinst84-sudo/magnusinst84-sudo/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
-
----
-
-<div align="center">
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,100:FF3B30&height=120&section=footer&animation=fadeIn)
-
-*Open to internships and collaborations.*
-
-</div>
