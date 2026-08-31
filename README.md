@@ -45,8 +45,10 @@ const tanmay = {
 
 | Project | Stack | What it is |
 |:--|:--|:--|
-| 🏛️ **Yatra — A Journey Through Time** *(Jul 2026 – Present)* | React.js · Tailwind CSS · Gemini API · RAG · +10 skills | AI-generated historical walkthrough app. Pick a place and an era; RAG retrieval grounds historical context, Gemini generates a 3-stop narrated walkthrough with images, served as an interactive, shareable experience. Owned the agent/backend layer, Gemini generation pipeline, and a fallback chain across image providers so a single failed call doesn't break the walkthrough. Built during OpenAI Build Week; hit >90% valid structured output across real test batches. |
+| 🧬 Relict  — Frotier AI For Genome And Computational Biology | Python · Qwen3-4B-Instruct-2507 · QLoRA · PEFT/TRL · bitsandbytes · Ollama | Self-hostable genome-editing strategy engine spanning 6 domains. Owned the core ML pipeline: built the SFT dataset, diagnosed a ~93% baseline failure rate on under-specified objectives, rebalanced a skewed training split, and retrained with QLoRA. Built the missing inference and comparative-evaluation pipeline, improving final eval results from 37/48 → 46/48. |
+| 🏛️ **Yatra — A Journey Through Time**  | React.js · Tailwind CSS · Gemini API · RAG · +10 skills | AI-generated historical walkthrough app. Pick a place and an era; RAG retrieval grounds historical context, Gemini generates a 3-stop narrated walkthrough with images, served as an interactive, shareable experience. Owned the agent/backend layer, Gemini generation pipeline, and a fallback chain across image providers so a single failed call doesn't break the walkthrough. Built during OpenAI Build Week; hit >90% valid structured output across real test batches. |
 | 🍛 **FoodSight AI** | Python · TensorFlow · MobileNetV3 (→ FastAPI, Docker, Next.js planned) | 100-class Indian food classifier. Self-published 55K-image dataset, 85.21% top-1 accuracy. Originally a team academic project, now being solo-scaled toward a production build: migrating Flask → FastAPI, containerizing with Docker, then decoupling into a Next.js/Vercel frontend against a hosted API, ahead of a planned React Native mobile client. |
+| ⚽ **OFFSIDE** | Next.js · FastAPI · XGBoost · Gemini API · Python | AI-powered football intelligence platform for FIFA World Cup 2026. Live win probability, tactical analysis, AI commentary from 4 analyst personalities, and player DNA cards in a Bloomberg-terminal-inspired dashboard. Elo + bio differential model lifted accuracy from 49% → 57.6%. |
 
 </div>
 
@@ -60,7 +62,7 @@ const tanmay = {
 |:--|:--|:--|
 | 🧠 **EduTrace** | React · FastAPI · Gemini API · Firebase · Firestore | AI-powered adaptive learning path agent. 3-turn diagnostic infers your level, generates a RAG-grounded week-by-week roadmap from roadmap.sh data, then teaches you via stateful conversation with stuck mode, teaching modes, quizzes, and PDF export. |
 | 📋 **devChart** | Next.js 14 · TypeScript · MongoDB · Firebase Auth | Neobrutalist, full-stack Kanban board for dev teams. Drag-and-drop status tracking persisted in real time, full audit-trail logging, and isolated "Rooms" with secure entry keys so team leads can oversee multiple projects from one hub. |
-| ⚽ **OFFSIDE** | Next.js · FastAPI · XGBoost · Gemini API · Python | AI-powered football intelligence platform for FIFA World Cup 2026. Live win probability, tactical analysis, AI commentary from 4 analyst personalities, and player DNA cards in a Bloomberg-terminal-inspired dashboard. Elo + bio differential model lifted accuracy from 49% → 57.6%. |
+
 </div>
 
 ---
