@@ -13,7 +13,7 @@
 │   ┌─ identity ─────────────────┐   ┌─ focus ─────────────────────┐ │
 │   │                            │   │                             │ │
 │   │  name    : Tanmay Nair     │   │  Artificial Intelligence   │ │
-│   │  role    : AI / Engineer   │   │  Machine Learning           │ │
+│   │  role    : Student · Dev   │   │  Machine Learning           │ │
 │   │  degree  : B.Tech CSE      │   │  Backend Engineering        │ │
 │   │  campus  : VIT Chennai     │   │  Systems & Architecture     │ │
 │   │                            │   │                             │ │
